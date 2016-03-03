@@ -1,0 +1,114 @@
+CHSI_County_Name,CHSI_State_Name,CHSI_State_Abbr,Strata_ID_Number,Strata_Determining_Factors,Number_Counties,Population_Size,Population_Density,Poverty,White,Black,Native_American,Asian,Hispanic
+Fairfield,Connecticut,CT,2,"frontier status,     population size, poverty",32,902775,1443,7.3,83.7,10.7,0.3,4.2,13.8
+Hartford,connecticut,CT,2,"frontier status, population size, poverty",32,877393,1193,9.2,81.6,13.3,0.3,3.4,12.5
+Litchfield,Connecticut,CT,13,"frontier status, population size, poverty, age",16,190071,207,5.5,96,1.4,0.2,1.4,3.1
+Middlesex,Connecticut,CT,11,"frontier status, population size, poverty, age",44,163214,442,5.1,91.8,4.7,0.2,2.1,3.5
+New Haven,Connecticuy,CT,2,"frontier status, population size, poverty",32,846766,1398,9.4,82.4,12.6,0.3,3.3,11.7
+New London,Connecticut,CT,9,"frontier status, population size, poverty, age",24,266618,400,6.6,87.6,6,0.9,3.2,5.9
+Tolland,Connecticut,CT,11,"frontier status, population size, poverty, age",44,147634,360,5.3,92.6,3.4,0.2,2.8,3.4
+Windham,Connecticut,CT,12,"frontier status, population size, poverty, age",57,115826,226,8.1,94.7,2.3,0.5,1.1,7.4
+Barnstable,massachusetts,MA,13,"frontier status, population size, poverty, age",16,226514,573,7.3,95.6,2.1,0.5,0.9,1.6
+Berkshire,Massachusets,MA,13,"frontier status, population size, poverty, age",16,131868,142,10.2,95.2,2.3,0.2,1.2,2.3
+Bristol,Massachusetts,MA,2,"frontier status, population size, poverty",32,546331,983,10.4,93.1,3.6,0.3,1.8,4.5
+Dukes,Massachusets,MA,55,"frontier status, population size, poverty, age, population density",47,15592,150,6.4,93.3,3.1,1.8,0.8,1.4
+Essex,massachusetts,MA,2,"frontier status, population size, poverty",32,738301,1475,9.7,89.4,5.2,0.3,3.1,13.2
+Franklin,Maassachusetts,MA,18,"frontier status, population size, poverty, age",20,72334,103,8.8,95.9,1.2,0.3,1.4,2.3
+Hampden,Massachusetts,MA,5,"frontier status, population size, poverty",25,461591,746,14.4,86.7,9.5,0.4,2,17.2
+Hampshire,massachusetts,MA,11,"frontier status, population size, poverty, age",44,153339,290,9.3,92.4,2.4,0.2,3.8,3.7
+Middlesex,Masssachusetts,MA,1,"frontier status, population size",34,1459011,1772,7.6,86.1,4.2,0.2,8.3,5
+Nantucket,massachusetts,MA,37,"frontier status, population size, poverty, age",30,10168,213,5.1,89.2,9.5,0,1.2,4.4
+Norfolk,Massachusetts,MA,2,"frontier status, population size, poverty",32,653595,1636,5.5,86.7,4.7,0.1,7.4,2.4
+Plymouth,massachusetts,MA,10,"frontier status, population size, poverty, age",36,492409,745,7.8,89.3,8,0.2,1.2,2.7
+Suffolk,Massachusetts,MA,3,"frontier status, population size, poverty",39,654428,11183,15.9,65.1,24.9,0.5,7.8,17.2
+Worcester,Massachusetts,MA,2,"frontier status, population size, poverty",32,783262,518,9.4,91.2,3.7,0.3,3.7,7.6
+Belknap,New Hampshire,NH,17,"frontier status, population size, poverty, age",32,61547,153,7.3,97.6,0.5,0.3,0.8,0.8
+Carroll,New Hampshire,NH,26,"frontier status,          population size, poverty, age",40,47439,51,7.3,98.3,0.3,0.2,0.5,0.8
+Cheshire,New Hampshire,NH,17,"frontier status, population size, poverty, age",32,77287,109,7.2,97.7,0.6,0.3,0.7,1
+Coos,New Hampshire,NH,30,"frontier status, population size, poverty, age",57,33655,19,9.7,98.2,0.3,0.3,0.4,0.9
+Grafton,NewHampshire,NH,17,"frontier status, population size, poverty, age",32,84708,49,7.2,95.9,0.7,0.3,2,1.3
+Hillsborough,New Hampshire,NH,9,"frontier status, population size, poverty, age",24,401291,458,6.3,94,1.7,0.2,2.9,4.1
+Merrimack,New Hampshire,NH,11,"frontier status, population size, poverty, age",44,146881,157,6.3,96.8,0.7,0.3,1.2,1.3
+Rockingham,New Hampshirh,NH,9,"frontier status, population size, poverty, age",24,295076,425,4.5,96.8,0.8,0.2,1.5,1.7
+Strafford,New hampshire,NH,11,"frontier status, population size, poverty, age",44,119015,323,8.5,96,0.9,0.3,1.8,1.3
+Sullivan,New Hempshire,NH,26,"frontier status, population size, poverty, age",40,43041,80,7.6,98.3,0.3,0.2,0.5,0.9
+Albany,New york,NY,10,"frontier status, population size, poverty, age",36,297414,568,10.8,82.4,12.1,0.2,3.8,3.5
+Allegany,New York,NY,23,"frontier status, population size, poverty, age",37,50602,49,14.8,97,1.1,0.3,1,1.1
+Bronx,New York,NY,1,"frontier status, population size",34,1357589,32300,26.8,49.6,42.5,1.2,4,49.5
+Broome,New York,NY,16,"frontier status, population size, poverty, age",27,196947,279,12.9,90.9,4.1,0.2,3.4,2.3
+Cattaraugus,New York,NY,23,"frontier status,            population size, poverty, age",37,82502,63,13.6,94.8,1.3,2.5,0.6,1.1
+Cayuga,New York,NY,20,"frontier status, population size, poverty, age",32,81454,118,11.6,94.4,4.1,0.3,0.4,2.1
+Chautauqua,New York,NY,6,"frontier status, population size, poverty",53,136409,128,14.9,95.8,2.4,0.5,0.5,4.5
+Chemung,New York,NY,21,"frontier status, population size, poverty, age",44,89512,219,13.5,91.5,6.1,0.3,1,2
+Chenango,New york,NY,23,"frontier status, population size, poverty, age",37,51755,58,13.5,97.9,1,0.2,0.4,1.6
+Clinton,New York,NY,23,"frontier status, population size, poverty, age",37,82047,79,12.6,94.4,3.8,0.4,0.8,2.7
+Columbia,New York,NY,21,"frontier status, population size, poverty, age",44,63622,100,9.8,92.6,4.9,0.3,1.3,3
+Cortland,new York,NY,29,"frontier status, population size, poverty, age",37,48622,97,13.4,97,1.3,0.2,0.6,1.7
+Delaware,New York,NY,34,"frontier status, population size, poverty, age",22,47534,33,12.6,96.7,1.8,0.3,0.6,2.6
+Dutchess,Now Yark,NY,9,"frontier status, population size, poverty, age",24,294849,368,8,85,10.2,0.3,3.2,7.9
+Erie,New York,NY,3,"frontier status, population size, poverty",39,930703,891,13,83,13.6,0.6,1.8,3.5
+Essex,New York,NY,30,"frontier status,            population size,              poverty, age",57,38676,22,11.5,95.2,3.3,0.3,0.7,2.4
+Franklin,New York,NY,32,"frontier status, population size, poverty, age",37,51033,31,14.6,86.2,7.2,5.7,0.4,4
+Fulton,New York,NY,21,"frontier status, population size, poverty, age",44,55625,112,12.7,96.4,2,0.2,0.8,1.9
+Genesee,New York,NY,45,"frontier status, population size, poverty, age, population density",38,59257,120,9.1,95.3,2.6,0.7,0.6,1.9
+Greene,New York,NY,30,"frontier status, population size, poverty, age",57,49682,77,12.9,92,6.2,0.3,0.7,4.8
+Hamilton,New York,NY,79,"frontier status, population size, poverty, age",33,5228,3,9.5,98.2,1.1,0.2,0.2,1.4
+Herkimer,New York,NY,21,"frontier status, population size, poverty, age",44,63780,45,12.4,97.6,0.9,0.2,0.6,1.3
+Jefferson,New York,NY,6,"frontier status, population size, poverty",53,116384,91,14.5,91.1,5.6,0.5,1.4,4.1
+Kings,New York,NY,1,"frontier status, population size",34,2486235,35211,23.3,50.6,38.3,0.5,9,19.5
+Lewis,New York,NY,29,"frontier status, population size, poverty, age",37,26571,21,12.9,98.3,0.9,0.3,0.3,0.8
+Livingston,New York,NY,17,"frontier status, population size, poverty, age",32,64205,102,10.8,95,3.1,0.3,0.9,2.3
+Madison,New York,NY,45,"frontier status, population size, poverty, age, population density",38,70337,107,10.4,96.4,1.7,0.6,0.7,1.2
+Monroe,New York,NY,3,"frontier status, population size, poverty",39,733366,1112,12.7,80.8,14.7,0.3,2.8,5.5
+Montgomery,New York,NY,21,"frontier status, population size, poverty, age",44,48968,121,13,96.3,1.8,0.3,0.8,7.9
+Nassau,New York,NY,1,"frontier status, population size",34,1333137,4650,5.9,80.8,11.3,0.2,6.6,11.6
+New York,New York,NY,1,"frontier status, population size",34,1593200,69390,18.6,66.5,19.8,0.7,10.9,25
+Niagara,New York,NY,16,"frontier status, population size, poverty, age",27,217008,415,11.4,90.6,6.5,1,0.8,1.4
+Oneida,New York,NY,16,"frontier status, population size, poverty, age",27,234105,193,12.8,91.3,6.1,0.2,1.4,3.6
+Onondaga,New York,NY,4,"frontier status, population size, poverty",25,458053,587,12.1,84.7,10.2,0.9,2.5,2.6
+Ontario,New York,NY,45,"frontier status, population size, poverty, age, population density",38,104461,162,8.4,95.7,2.3,0.2,0.9,2.3
+Orange,New York,NY,10,"frontier status, population size, poverty, age",36,372893,457,10.5,85.5,10.2,0.4,2.3,14.6
+Orleans,New York,NY,29,"frontier status, population size, poverty, age",37,43387,111,12.6,91.2,7.2,0.5,0.4,3.8
+Oswego,New York,NY,15,"frontier status, population size, poverty, age",23,123373,129,13,97.5,0.8,0.4,0.5,1.4
+Otsego,New York,NY,21,"frontier status, population size, poverty, age",44,62746,63,12.6,96.1,2,0.2,0.9,2.1
+Putnam,New York,NY,46,"frontier status, population size, poverty, age, population density",26,100507,435,4.6,94.4,2.6,0.2,1.9,9.1
+Queens,New York,NY,1,"frontier status, population size",34,2241600,20520,15.4,55.1,21.1,0.7,21,25.7
+Rensselaer,New York,NY,14,"frontier status, population size, poverty, age",40,155251,237,9.8,90.9,5.6,0.2,2.2,2.5
+Richmond,New York,NY,10,"frontier status, population size, poverty, age",36,464573,7944,10.1,80.3,10.8,0.4,7.3,14.3
+Rockland,New York,NY,10,"frontier status, population size, poverty, age",36,292916,1681,9.7,80.2,11.9,0.3,6.5,12.1
+St. Lawrence,New York,NY,6,"frontier status, population size, poverty",53,111380,41,15.2,95.1,2.5,0.9,0.9,1.9
+Saratoga,New York,NY,12,"frontier status, population size, poverty, age",57,214859,265,6.3,95.8,1.5,0.2,1.6,1.8
+Schenectady,New York,NY,13,"frontier status, population size, poverty, age",16,149078,723,11.6,86,8.6,0.3,3.4,3.8
+Schoharie,New York,NY,30,"frontier status, population size, poverty, age",57,32277,52,11.6,97.2,1.4,0.4,0.5,2
+Schuyler,New York,NY,39,"frontier status, population size, poverty, age",51,19342,59,11.5,96.8,1.7,0.5,0.4,1.3
+Seneca,New York,NY,31,"frontier status, population size, poverty, age",22,34855,107,11.3,93.2,4.9,0.2,1,2.8
+Steuben,New York,NY,24,"frontier status, population size, poverty, age",35,98632,71,13.6,96.5,1.5,0.3,1.1,1
+Suffolk,New York,NY,1,"frontier status, population size",34,1474927,1617,7.3,87.4,7.8,0.3,3.3,12.5
+Sullivan,New York,NY,24,"frontier status, population size, poverty, age",35,76539,79,13.5,87.7,9.5,0.2,1.5,10.8
+Tioga,New York,NY,45,"frontier status,            population size, poverty, age, population density",38,51475,99,9.6,97.5,0.8,0.2,0.8,1.3
+Tompkins,New York,NY,19,"             frontier status, population size, poverty, age",37,100018,210,12.9,84.3,3.8,0.3,9.7,3.5
+Ulster,New York,NY,14,"frontier status, population size, poverty, age",40,182693,162,10.6,90.6,6.2,0.3,1.6,6.7
+Warren,New York,NY,21,"frontier status, population size, poverty, age",44,65548,75,10,97.6,0.8,0.2,0.7,1.5
+Washington,New York,NY,20,"frontier status, population size, poverty, age",32,63024,75,11,95.6,3.3,0.2,0.4,2.4
+Wayne,New York,NY,46,"frontier status,               population size, poverty, age, population density",26,93609,155,10.1,94.8,3.2,0.3,0.6,2.9
+Westchester,New York,NY,2,"frontier status, population size, poverty",32,940807,2174,8.7,77.8,14.9,0.4,5.6,17.8
+Wyoming,New York,NY,29,"frontier status, population size, poverty, age",37,42693,72,10,93.1,5.8,0.3,0.5,3.1
+Yates,New York,NY,43,"frontier status, population size, poverty, age",57,24756,73,12.8,98.7,0.7,0,0.3,1.2
+Bristol,Rhode Island,RI,26,"frontier status,                population size, poverty, age",40,52743,2137,7,96.5,1.1,0.2,1.5,1.5
+Kent,Rhode Islands,RI,13,"frontier status, population size, poverty, age",16,171590,1008,6.7,95.2,1.5,0.3,1.9,2.4
+Newport,Road Island,RI,17,"frontier status, population size, poverty, age",32,83740,805,8,92.7,3.6,0.6,1.6,3
+Providence,Rhode Island,RI,3,"frontier status, population size, poverty",39,639653,1548,14.4,84.8,9.2,0.6,3.5,16.1
+Washington,Rhode Island,RI,11,"frontier status, population size, poverty, age",44,128463,386,6.1,95.1,1.1,0.9,1.9,1.8
+Addison,vermont,VT,28,"frontier status, population size, poverty, age",39,36965,48,8.7,97.4,0.6,0.2,0.8,1.2
+Bennington,Vermont,VT,30,"frontier status, population size, poverty,            age",57,36999,55,10,97.7,0.7,0.2,0.8,1.2
+Caledonia,Vermont,VT,33,"frontier status, population size, poverty, age",41,30440,47,11.3,97.8,0.4,0.5,0.5,0.8
+Chittenden,Vermount,VT,11,"frontier status, population size, poverty, age",44,149613,278,7.6,95.1,1,0.2,2.3,1.2
+Essex,Vermont,VT,41,"frontier status,                 population size, poverty, age",47,6602,10,12.3,97.1,0.4,0.5,0.5,0.6
+Franklin,Vermont,VT,29,"frontier status, population size, poverty, age",37,47914,75,9.5,96.5,0.4,1.3,0.3,0.7
+Grand Isle,vermont,VT,37,"frontier status, population size, poverty, age",30,7703,93,7.2,97.5,0.2,0.9,0.4,0.5
+Lamoille,Vermont,VT,39,"frontier status, population size, poverty, age",51,24495,53,8.8,97.2,0.6,0.5,0.5,1
+Orange,Varmont,VT,29,"frontier status, population size,                  poverty, age",37,29287,43,9.2,98.3,0.3,0.3,0.5,0.8
+Orleans,Vermont,VT,33,"frontier status, population size, poverty, age",41,27640,40,13.2,97.6,0.5,0.5,0.4,1
+Rutland,Vermont,VT,19,"frontier status, population size, poverty, age",37,63743,68,10.3,98.3,0.4,0.2,0.5,0.8
+Washington,Vermont,VT,17,"frontier status, population size, poverty, age",32,59478,86,8.4,97,0.5,0.3,0.9,1.4
+Windham,Vermont,VT,28,"frontier status, population size, poverty, age",39,44143,56,9.7,97,0.7,0.2,1,1.2
+Windsor,Vermont,VT,21,"frontier status, population size, poverty, age",44,58028,60,8.7,97.8,0.4,0.2,0.8,1
