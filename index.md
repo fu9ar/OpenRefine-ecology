@@ -2,12 +2,12 @@
 layout: lesson
 root: .
 lastupdated: August 14, 2015
-contributors: ["Deb Paul", "Tracy Teal"]
+contributors: ["Deb Paul", "Tracy Teal", "Kevin Vilbig"]
 maintainers: ["Deb Paul", "Tracy Teal"]
-domain: Ecology
+domain: Public Health
 topic: OpenRefine
 software:
-dataurl: https://www.dropbox.com/s/kbb4k00eanm19lg/Portal_rodents_19772002_scinameUUIDs.csv?dl=0
+dataurl: TBA
 status: Teaching
 ---
 
