@@ -2,7 +2,7 @@
 layout: lesson
 root: .
 title: Scripts from OpenRefine
-minutes: 
+minutes: 10
 ---
 
 # Learning Objectives
