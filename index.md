@@ -1,13 +1,13 @@
 ---
 layout: lesson
 root: .
-lastupdated: August 14, 2015
+lastupdated: March 4, 2016
 contributors: ["Deb Paul", "Tracy Teal", "Kevin Vilbig"]
 maintainers: ["Deb Paul", "Tracy Teal"]
 domain: Public Health
 topic: OpenRefine
 software:
-dataurl: TBA
+dataurl: http://fu9ar.freeshell.org/carpentry_boston/
 status: Teaching
 ---
 
